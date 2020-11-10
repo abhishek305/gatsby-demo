@@ -6,9 +6,9 @@ module.exports = {
     {
       resolve: 'gatsby-source-contentstack',
       options:{
-        'api_key':'your_api_key',
-        'delivery_token':'your_delivery_token',
-        'environment':'your_development',
+        'api_key':'bltff856f3f034d89c7',
+        'delivery_token':'cs037658fd3f355e61abdec712',
+        'environment':'development',
         // Optional: expediteBuild set this to either true or false
         'expediteBuild': true,
         // Optional: Specify true if you want to generate custom schema
